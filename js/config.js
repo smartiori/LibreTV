@@ -133,17 +133,17 @@ const API_SITES = {
         adult: true
     },
     jkun: {
-        api: 'https://jkunzyapi.com',
+        api: 'https://jkunzyapi.com/api.php/seaxml/vod',
         name: 'jkun资源',
         adult: true
     },
     bwzy: {
-        api: 'https://api.bwzym3u8.com',
+        api: 'https://api.bwzyz.com/api.php/provide/vod/',
         name: '百万资源',
         adult: true
     },
     souav: {
-        api: 'https://api.souavzy.vip',
+        api: 'https://api.souavzy.vip/api.php/provide/vod/',
         name: 'souav资源',
         adult: true
     },
@@ -164,7 +164,7 @@ const API_SITES = {
         detail: 'https://hsckzy.vip'
     },
     yutu: {
-        api: 'https://yutuzy10.com',
+        api: 'https://apiyutu.com/api.php/provide/vod/',
         name: '玉兔资源',
         adult: true
     },
