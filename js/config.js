@@ -168,6 +168,10 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
+    xf: {
+        api: 'https://xzybb1.com/api.php/provide/vod',
+        name: '幸福资源'
+    },
 
     // 下面是资源失效率高的API源，不建议使用
     subo: {
@@ -181,10 +185,6 @@ const API_SITES = {
     ukzy: {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源'
-    },
-    幸福: {
-    api: 'https://xzybb1.com/api.php/provide/vod',
-    name: 'U酷资源'
     },
 };
 
