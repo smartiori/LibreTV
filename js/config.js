@@ -170,7 +170,7 @@ const API_SITES = {
     },
     xf: {
         api: 'https://xzybb1.com/api.php/provide/vod',
-        name: '幸福资源'
+        name: '幸福资源',
         adult: true
     },
 
