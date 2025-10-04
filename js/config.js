@@ -173,6 +173,12 @@ const API_SITES = {
         name: '幸福资源',
         adult: true
     },
+    
+    91: {
+        api: 'https://91jpzyw.com/api.php/provide/vod',
+        name: '91资源',
+        adult: true
+    },
 
     // 下面是资源失效率高的API源，不建议使用
     subo: {
