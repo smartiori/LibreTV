@@ -185,7 +185,7 @@ const API_SITES = {
         name: '索尼资源',
         adult: true
     },
-    sony: {
+    wsy: {
         api: 'https://api.wsyzy.net/api.php/provide/vod/',
         name: '无水印',
         adult: true
