@@ -189,7 +189,7 @@ const API_SITES = {
         api: 'https://api.wsyzy.net/api.php/provide/vod/',
         name: '无水印',
         adult: true
-    },    
+    },
     // 下面是资源失效率高的API源，不建议使用
     subo: {
         api: 'https://subocaiji.com/api.php/provide/vod',
