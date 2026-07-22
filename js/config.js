@@ -206,7 +206,7 @@ const API_SITES = {
     },    
     huangsec: {
         api: 'https://hsckzy888.com/api.php/provide/vod/',
-        name: '黄色仓库',
+        name: '黄色仓库new',
         adult: true
     },        
     // 下面是资源失效率高的API源，不建议使用
