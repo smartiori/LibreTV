@@ -118,6 +118,10 @@ const API_SITES = {
         api: 'https://cj.yayazy.net/api.php/provide/vod/',
         name: '鸭鸭资源站'
     },    
+    tianya: {
+        api: 'https://tyyszyapi.com/api.php/provide/vod/',
+        name: '天涯资源站'
+    },        
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
