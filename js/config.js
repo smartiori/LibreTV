@@ -122,10 +122,10 @@ const API_SITES = {
         api: 'https://tyyszyapi.com/api.php/provide/vod/',
         name: '天涯资源站'
     },
-    aiqiyi: {
+    aiqiyi2609: {
         api: 'https://iqiyizyapi.com/api.php/provide/vod/',
-        name: '爱奇已2609'
-    },    
+        name: 'iiqqyy'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
